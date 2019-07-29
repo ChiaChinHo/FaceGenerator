@@ -5,7 +5,7 @@
 - Variational AutoEncoder <br/>
 - WGAN <br/>
 - DCGAN <br/>
-![Result](../master/figure/DCGAN.jpg) <br/>
+![Result](../master/figure/DCGAN.png) <br/>
 - ACGAN <br/>
 ![Result](../master/figure/ACGAN.jpg) <br/>
 
